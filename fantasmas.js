@@ -10,5 +10,9 @@ function mostrarFanstama(){
         lkas;dl kas;'ldk a;'sldk as';lk
     ]
  ]
+  d asd kjasd lkjasdlk jasd
+  aslkd jaslkdj aslkdj las
+  dlkjasdlkjasldkjas das
+  lkdjasl kdjaslkd jlas
     */
 }
